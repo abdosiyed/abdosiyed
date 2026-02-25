@@ -18,7 +18,7 @@ My work combines:
 - ☁️ **Edge-to-Cloud Data Pipelines**
 - ⚙️ **Mechanical System Design & Fabrication**
 
-
+> **I build systems — not just prototypes.**
 
 ---
 
@@ -58,7 +58,14 @@ My work combines:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### 🔹 Mechanical & Fabrication
-`CAD Design` • `Rack & Pinion Systems` • `PVC Heat Bending` • `System Assembly`
+![SolidWorks](https://img.shields.io/badge/SolidWorks-FF0000?style=for-the-badge&amp;logo=dassaultsystemes&amp;logoColor=white)
+![Onshape](https://img.shields.io/badge/Onshape-4A90D9?style=for-the-badge&amp;logo=onshape&amp;logoColor=white)
+![Fusion 360](https://img.shields.io/badge/Fusion%20360-FF6600?style=for-the-badge&amp;logo=autodesk&amp;logoColor=white)
+![3D Printing](https://img.shields.io/badge/3D%20Printing-00979D?style=for-the-badge&amp;logo=printables&amp;logoColor=white)
+![CO2 Laser Cutting](https://img.shields.io/badge/CO2%20Laser%20Cutting-FF4500?style=for-the-badge&amp;logo=openlayers&amp;logoColor=white)
+![CNC](https://img.shields.io/badge/CNC%20Machining-555555?style=for-the-badge&amp;logo=gnubash&amp;logoColor=white)
+
+`Rack & Pinion Systems` • `PVC Heat Bending` • `System Assembly & Integration` • `Motion Control`
 
 ---
 
