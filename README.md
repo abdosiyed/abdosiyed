@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Dynamic header banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00b4d8,100:0077b6&height=200&section=header&text=Abdelrahman%20Sayed&fontSize=45&fontColor=ffffff&fontAlignY=38&desc=Mechatronics%20Engineer%20%7C%20IoT%20Systems%20Developer%20%7C%20Embedded%20%26%20Automation%20Enthusiast&descAlignY=58&descSize=16&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,50:00b4d8,100:0077b6&amp;height=200&amp;section=header&amp;text=Abdelrahman%20Sayed&amp;fontSize=45&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Mechatronics%20Engineer%20%7C%20IoT%20Systems%20Developer%20%7C%20Embedded%20%26%20Automation%20Enthusiast&amp;descAlignY=58&amp;descSize=16&amp;animation=fadeIn"/>
 
 </div>
 
@@ -131,6 +131,6 @@ Intel RealSense camera + camera-based path detection + embedded control logic fo
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0077b6,50:00b4d8,100:0d1117&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0077b6,50:00b4d8,100:0d1117&amp;height=120&amp;section=footer"/>
 
 </div>
