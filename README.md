@@ -18,7 +18,7 @@ My work combines:
 - ☁️ **Edge-to-Cloud Data Pipelines**
 - ⚙️ **Mechanical System Design & Fabrication**
 
-> **I build systems — not just prototypes.**
+
 
 ---
 
